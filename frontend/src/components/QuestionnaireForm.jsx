@@ -9,20 +9,22 @@ export default function QuestionnaireForm() {
       title,
       expiry_date,
     };
-    fetch("http://127.0.0.1:8000/api/questore", {
+    fetch("http://127.0.0.1:8000/api/questionnaires/store", {
       method: "POST",
       body: JSON.stringify(questionnaire),
       headers: {
-        "Accept": "application/json",
+        Accept: "application/json",
         "Content-Type": "application/json",
       },
-    }).then(function (response) {
-      response.json().then(function (res) {
-         window.location.replace("/");
+    })
+      .then(function (response) {
+        response.json().then(function (res) {
+          window.location.replace("/");
+        });
+      })
+      .catch(function (response) {
+        console.log(response);
       });
-    }).catch(function (response){
-      console.log(response);
-    });
 
   };
 

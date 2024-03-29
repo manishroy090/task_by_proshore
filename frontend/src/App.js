@@ -41,7 +41,7 @@ export default  class App extends Component{
 
           <Route
             exact
-            path="/questions"
+            path="/questions/:id/:questionnaireId"
             element={
               <QuestionsForm
                 key="business"

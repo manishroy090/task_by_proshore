@@ -31,9 +31,7 @@ export default function Index() {
               <th scope="col" className="px-6 py-3">
                 Expiry Date
               </th>
-              <th scope="col" className="px-6 py-3">
-                Active
-              </th>
+
               <th scope="col" className="px-6 py-3">
                 NO.Questions
               </th>
@@ -65,13 +63,14 @@ export default function Index() {
                   {item.title}j
                 </th>
                 <td className="px-6 py-4">{item.expiry_date}</td>
-                <td className="px-6 py-4">{item.questions_count}</td>
-                <td className="px-6 py-4">{item.expiry_date}</td>
-                <td className="px-6 py-4">{item.expiry_date}</td>
-                <td className="px-6 py-4">{item.expiry_date}</td>
+                <td className="px-6 py-4">
+                  {item.chemistry_question_count +
+                    item.chemistry_question_count}
+                </td>
+                <td className="px-6 py-4">{item.chemistry_question_count}</td>
+                <td className="px-6 py-4">{item.chemistry_question_count}</td>
               </tr>
             ))}
-            
           </tbody>
         </table>
       </div>

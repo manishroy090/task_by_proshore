@@ -20,7 +20,8 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
 
 });
 Route::get('questionnaires', [QuestionnairesController::class, 'index']);
-Route::post('questore', [QuestionnairesController::class, 'store']);
-Route::get('questions', [QuestionController::class, 'questions']);
+Route::post('questionnaires/store', [QuestionnairesController::class, 'store']);
+Route::get('questions/{questionnaireId}', [QuestionController::class, 'questions']);
 Route::post('questions/store', [QuestionController::class, 'store']);
+Route::get('/emaillink/{code}/{questionnaireId}', [QuestionController::class, 'emailLink'])->name('email_link');
 // Route::post('')

@@ -31,9 +31,19 @@ class DatabaseSeeder extends Seeder
         }
         $Users = [
             [
-                'name' => 'Student User',
-                'email' => 'student@example.com',
+                'name' => 'rohan',
+                'email' => 'rohan@example.com',
                 'role_id'=>1
+            ],
+            [
+                'name' => 'aakash',
+                'email' => 'aakash@example.com',
+                'role_id' => 1
+            ],
+            [
+                'name' => 'mukesh',
+                'email' => 'mukesh@example.com',
+                'role_id' => 1
             ],
             [
                 'name' => 'Admin User',
