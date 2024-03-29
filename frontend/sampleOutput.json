@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 33,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Hamza Shaban",
+            "title": "Stock market today: Stocks rise after February jobs report - Yahoo Finance",
+            "description": "All eyes are on the crucial monthly jobs report that could shift the needle on timing of interest-rate cuts.",
+            "url": "https://finance.yahoo.com/news/stock-market-today-stocks-rise-after-february-jobs-report-134312058.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/dQ4Ex9yITvmGd7s207OTAg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/c1317af0-be84-11ee-bbbb-5ac0dbae4234",
+            "publishedAt": "2024-03-08T14:40:20Z",
+            "content": "Stocks climbed on Friday after the February jobs report showed an uptick in the unemployment rate, bolstering investor confidence that the Federal Reserve will cut rates following its June meeting.\r\n… [+3347 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jeff Cox",
+            "title": "U.S. job growth totaled 275,000 in February but unemployment rate rises to 3.9% - CNBC",
+            "description": "Nonfarm payrolls were expected to increase by 198,000 in February, according to the Dow Jones consensus estimate.",
+            "url": "https://www.cnbc.com/2024/03/08/jobs-report-february-2024-us-job-growth-totaled-275000.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107363787-17061085342022-09-01t184946z_946092228_rc2f8w90zj6x_rtrmadp_0_usa-economy.jpeg?v=1706108566&w=1920&h=1080",
+            "publishedAt": "2024-03-08T13:31:19Z",
+            "content": "Job creation topped expectations in February, but the unemployment rate moved higher and employment growth from the previous two months wasn't near as hot as initially reported.\r\nNonfarm payrolls inc… [+5239 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Anthony Joshua vs. Francis Ngannou: Fight predictions, odds, undercard, preview, expert picks, start time - CBS Sports",
+            "description": "A former unified heavyweight champion takes on a former UFC heavyweight champ on Friday night in Saudi Arabia",
+            "url": "https://www.cbssports.com/boxing/news/anthony-joshua-vs-francis-ngannou-fight-predictions-odds-undercard-preview-expert-picks-start-time/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/03/07/a74bf053-87d7-4d36-8f59-c10a0506ec0e/thumbnail/1200x675/7e876136f8ac94ecdd2eda6ce928cfd4/joshua-ngannou-presser-2.jpg",
+            "publishedAt": "2024-03-08T13:30:00Z",
+            "content": "Of all the unlikely developments in boxing over the past few decades, the story of Francis Ngannou just might take the cake. \r\nNgannou (0-1 in boxing, 17-3 in MMA), a former UFC heavyweight champion,… [+11586 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Ringer"
+            },
+            "author": "Keith Phipps",
+            "title": "The Eight Biggest Story Lines Heading Into the 2024 Oscars - The Ringer",
+            "description": "Is ‘Oppenheimer’ invulnerable? What are the most likely upsets? And why is everyone being so weird about Bradley Cooper?",
+            "url": "https://www.theringer.com/oscars/2024/3/8/24093916/oscars-2024-predictions-story-lines-nominations-upsets-best-picture",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/iIIOKlB6OMudk31fEElx6mdW0BU=/0x86:1200x714/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25324709/OscarStorylines_Getty_AppleStudios_Orion_Universal_WB_FoxSearchlight_Ringer.jpg",
+            "publishedAt": "2024-03-08T13:17:50Z",
+            "content": "Traditionally, the Oscars race begins in the fall, when one contender debuts after the other, resulting in a pile-up of ambitious films vying to compete at the following springs Academy Awards. This … [+9435 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Haley Britzky",
+            "title": "US military lifts 3-month grounding of V-22 Osprey fleet after deadly crash - CNN",
+            "description": "The US military has lifted the grounding guidance for the military’s V-22 Osprey fleet, roughly three months after the entire fleet was grounded following a deadly Air Force Special Operations crash off the coast of Japan. The Air Force, Marine Corps and Navy…",
+            "url": "https://www.cnn.com/2024/03/08/politics/v-22-osprey/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1674088694-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-03-08T13:06:00Z",
+            "content": "The US military has lifted the grounding guidance for the militarys V-22 Osprey fleet, roughly three months after the entire fleet was grounded following a deadly Air Force Special Operations crash o… [+5488 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters.com",
+            "title": "US embassy warns of imminent attack in Moscow by 'extremists' - Reuters.com",
+            "description": null,
+            "url": "https://www.reuters.com/world/us-embassy-warns-imminent-extremist-attack-moscow-2024-03-08/",
+            "urlToImage": null,
+            "publishedAt": "2024-03-08T12:57:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "New Yorkers lukewarm on National Guard deployment to deter subway crime - BBC.com",
+            "description": "Some commuters told the BBC it was a good idea. Others expressed concern it might lead to profiling.",
+            "url": "https://www.bbc.com/news/world-us-canada-68508331",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FA42/production/_132866046_gettyimages-2059246986.jpg",
+            "publishedAt": "2024-03-08T12:43:31Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Francesca Bacardi",
+            "title": "Travis Kelce arrives at Taylor Swift's Singapore Eras Tour concert - Page Six",
+            "description": "The Kansas City Chiefs tight end arrived in Asia Thursday night after spending time with his brother, Jason Kelce, before and after he announced his retirement.",
+            "url": "https://pagesix.com/2024/03/08/entertainment/travis-kelce-arrives-at-taylor-swifts-singapore-eras-tour-concert/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/03/77936195.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-03-08T12:31:00Z",
+            "content": "Travis Kelce made it to Taylor Swift’s Eras Tour concert in Singapore Friday night.\r\nThe Kansas City Chiefs tight end was spotted with a group of friends, including close pal Harry Clark, sitting in … [+2698 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Jared Weiss and Tony Jones",
+            "title": "Nikola Jokić, Aaron Gordon lead Nuggets to season sweep of Celtics - The Athletic",
+            "description": "The defending champions have won both games against Boston this season. Will we see more down the road in the NBA Finals?",
+            "url": "https://theathletic.com/5325543/2024/03/08/jokic-gordon-nuggets-celtics/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2024/03/08003042/USATSI_22719663-scaled.jpg",
+            "publishedAt": "2024-03-08T12:25:13Z",
+            "content": "DENVER The Boston Celtics have been the NBAs best team this year, but the champs still have their number. The Denver Nuggets beat the Celtics 115-109 Thursday to sweep the season series with two thri… [+3350 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "ESPN staff",
+            "title": "NFL free agency 2024: Top players, team predictions, more - ESPN",
+            "description": "We break down the best players in NFL free agency, quarterbacks looking for new teams, franchise tag aftermath and teams ready to spend.",
+            "url": "https://www.espn.com/nfl/story/_/id/39604080/nfl-free-agency-2024-top-players-fits-teams-predictions-contract-quarterbacks-sleepers",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2019%2F1222%2Fr644756_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-03-08T12:00:00Z",
+            "content": "NFL free agency officially begins March 13 at 4 p.m. ET, and teams can start negotiating with players -- and agreeing to terms on new deals -- on March 11.\r\nTo get you ready for all the action, our N… [+20245 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Scott Thompson",
+            "title": "T-Wolves' Anthony Edwards smashes head on rim during nasty game-winning blocked shot - Fox News",
+            "description": "Minnesota Timberwolves guard saved a win for his team against the Indiana Pacers on Thursday night with a nasty game-winning block when he smashed his head on the rim.",
+            "url": "https://www.foxnews.com/sports/t-wolves-anthony-edwards-smashes-head-rim-nasty-game-winning-blocked-shot",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/03/80807374-Anthony-Edwards-1.jpg",
+            "publishedAt": "2024-03-08T11:51:00Z",
+            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nPlease enter a valid email address.\r\nBy entering your e… [+2529 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WLS-TV"
+            },
+            "author": null,
+            "title": "Measles in Chicago: Child diagnosed at Pilsen migrant shelter, Chicago Department of Public Health says - WLS-TV",
+            "description": "A young child staying at a Chicago shelter was diagnosed with measles, the Chicago Department of Health said Friday.",
+            "url": "https://abc7chicago.com/measles-in-chicago-pilsen-migrant-shelter-symptoms-how-long-does-vaccine-last/14503090/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/14503334_030824-wls-measles-pilsen-diane6a-vid.jpg?w=1600",
+            "publishedAt": "2024-03-08T11:45:20Z",
+            "content": "CHICAGO (WLS) -- A young child staying at a Chicago shelter was diagnosed with measles, the Chicago Department of Health said Friday.\r\nNew safety orders are in effect for people staying at the new ar… [+2061 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Jamie Chisholm",
+            "title": "Here’s what 100 years of history shows about periods of extreme market concentration, according to Goldman Sachs - MarketWatch",
+            "description": "Critical information for the U.S. trading day",
+            "url": "https://www.marketwatch.com/story/heres-what-100-years-of-history-shows-about-periods-of-extreme-market-concentration-according-to-goldman-sachs-340ca243",
+            "urlToImage": "https://images.mktw.net/im-65097578/social",
+            "publishedAt": "2024-03-08T11:42:00Z",
+            "content": "A mixed jobs report may not stop the S&amp;P 500 on Friday registering its 17th peak of the year as more investors are infected by AI fever.Naturally, Nvidia stock \r\n NVDA\r\n sits at a fresh record, a… [+6025 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters UK",
+            "title": "Former UK PM Theresa May, brought down by Brexit, to quit as lawmaker - Reuters UK",
+            "description": null,
+            "url": "https://www.reuters.com/world/uk/former-british-pm-theresa-may-stand-down-next-election-2024-03-08/",
+            "urlToImage": null,
+            "publishedAt": "2024-03-08T11:03:25Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Joseph Choi",
+            "title": "Measles outbreak threatens US status of ‘eliminating’ virus - The Hill",
+            "description": "The rash of measles outbreaks around the country has sparked concerns that the U.S. risks losing its status as a country where the disease has been eliminated, a distinction held since 2000. As of last week, 41 measles cases have been confirmed across 15 stat…",
+            "url": "https://thehill.com/policy/healthcare/4517298-measles-outbreak-us-status-elimination/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/03/Measles_030824_Photo_Getty228098.png?w=1280",
+            "publishedAt": "2024-03-08T11:00:00Z",
+            "content": "Skip to content\r\nThe rash of measles outbreaks around the country has sparked concerns that the U.S. risks losing its status as a country where the disease has been eliminated, a distinction held sin… [+6778 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "POLITICO",
+            "title": "Biden's Speech Thrills Ukraine Watchers. Others, Not So Much. - POLITICO",
+            "description": null,
+            "url": "https://www.politico.com/news/magazine/2024/03/08/bidens-speech-ukraine-israel-00145989",
+            "urlToImage": null,
+            "publishedAt": "2024-03-08T10:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Axios",
+            "title": "Whistleblowers are calling out flaws in AI chatbots and image tools - Axios",
+            "description": null,
+            "url": "https://www.axios.com/2024/03/08/ai-whistleblowers-microsoft-copilot-designer-google-gemini",
+            "urlToImage": null,
+            "publishedAt": "2024-03-08T09:42:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters.com",
+            "title": "MH370: What we know about Malaysia Airlines plane, 10 years on - Reuters.com",
+            "description": null,
+            "url": "https://www.reuters.com/business/aerospace-defense/malaysias-missing-mh370-plane-what-we-know-10-years-2024-03-08/",
+            "urlToImage": null,
+            "publishedAt": "2024-03-08T09:42:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "US port plan to step up aid delivery to Gaza criticised as ‘distraction’ - Al Jazeera English",
+            "description": "Plan criticised as attempt to ‘divert attention’ from widening famine in Gaza as Israel obstructs aid operations.",
+            "url": "https://www.aljazeera.com/news/2024/3/8/us-port-plan-to-step-up-aid-delivery-to-gaza-criticised-as-distraction",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/AFP__20240305__34KU2UN__v1__HighRes__PalestinianIsraelConflictGaza-1709880633.jpg?resize=1920%2C1440",
+            "publishedAt": "2024-03-08T08:11:57Z",
+            "content": "A United States plan to build a temporary port off Gazas coast to step up the delivery of humanitarian aid has been criticised as an attempt to divert attention from hundreds of thousands of starving… [+5244 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Webster",
+            "title": "Fortnite Chapter 5: Season 2 brings Greek gods to the battle royale - The Verge",
+            "description": "In Fortnite Chapter 5: Season 2, the battle royale introduces a number of new characters, locations, and weapons based on Greek mythology.",
+            "url": "https://www.theverge.com/2024/3/8/24093527/fortnite-chapter-5-season-2-greek-gods-battle-royale",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/3BII01llU4Cg5VfaVEJVFpGZDRI=/0x0:1920x1080/1200x628/filters:focal(468x594:469x595)/cdn.vox-cdn.com/uploads/chorus_asset/file/25323314/Still012.jpg",
+            "publishedAt": "2024-03-08T08:09:51Z",
+            "content": "Fortnites new season brings Greek gods to the battle royale\r\nFortnites new season brings Greek gods to the battle royale\r\n / Chapter 5: Season 2 includes Zeus, Hades, Medusa, and more.\r\nByAndrew Webs… [+1881 chars]"
+        }
+    ]
+}
